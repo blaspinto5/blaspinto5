@@ -1,3 +1,8 @@
+![Eres el visitante número: ](https://komarev.com/ghpvc/?username=blaspinto5&color=blue)
+
+
+
+
 - 👋 Hi, I’m @blaspinto5
 - 👀 I’m interested in videogames and technology
 - 🌱 I’m currently learning JavaScript, React, and backend technologies like Node.js.
