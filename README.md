@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm **Blas Pinto**
 
-### 🚀 Full-Stack Python Developer · AI/ML Engineer · Automation Specialist
+### 🚀 Full-Stack Python Developer | AI/ML Engineer | Automation Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blaspintoc/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blaspinto5)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=6C63FF&center=true&vCenter=true&width=520&lines=Building+production-ready+systems;Python+%7C+AI%2FML+%7C+Automation;From+idea+to+scalable+software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+end-to-end+software+solutions;Python+%7C+AI%2FML+%7C+Automation;From+idea+to+production-ready+code" alt="Typing SVG" />
 
 </div>
 
@@ -15,16 +15,9 @@
 
 ## 🧑‍💻 About Me
 
-I build **end-to-end, production-ready software systems** using **Python**, **AI/ML**, and **automation**.  
-From backend services and data pipelines to dashboards, CI/CD, and deployment.
+I craft **end-to-end software solutions** with **Python**, **AI/ML integration**, and **automation**—from robust backends and data pipelines to intuitive dashboards and deployment-ready applications.
 
-> **Philosophy:**  
-> *Working code is the baseline. Scalable, tested, documented code is the standard.*
-
-I focus on:
-- Clean architecture
-- Automation-first workflows
-- Systems that survive real production usage
+> *"Code that works is good. Code that scales, is tested, and documented is better."*
 
 ---
 
@@ -32,13 +25,13 @@ I focus on:
 
 <div align="center">
 
-| Area | Stack |
-|:--:|:--|
-| 🐍 **Languages** | Python · HTML · CSS · PowerShell |
-| 🤖 **AI / ML** | TensorFlow · scikit-learn · Pandas |
-| 🗄️ **Databases** | PostgreSQL · SQLite |
-| 🔧 **DevOps & Tooling** | Docker · Git · GitHub Actions |
-| 🕷️ **Web Scraping** | Scrapy · Playwright |
+| **Category** | **Technologies** |
+|:---:|:---|
+| 🐍 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| 🤖 **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| 🗄️ **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| 🔧 **Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| 🕷️ **Web Scraping** | ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
 
 </div>
 
@@ -46,80 +39,107 @@ I focus on:
 
 ## 🌟 Featured Projects
 
-### 👻 **[Trading Phantom](https://github.com/blaspinto5/trading_phantom)**  
-**Algorithmic Trading Platform · ML · Web UI**
+<table>
+<tr>
+<td width="50%">
 
-A modular trading system designed for **MetaTrader 5**, focused on extensibility and automation.
+### 👻 [Trading Phantom](https://github.com/blaspinto5/trading_phantom)
+**Algorithmic Trading Platform + ML + Web UI**
 
-**Highlights**
-- 📊 Backtesting engine with performance metrics
-- 🌐 REST API + interactive web dashboard
-- 🧠 ML pipeline + knowledge base system
-- 🧪 Automated testing + CI/CD
+<img src="https://img.shields.io/badge/Python-41.6%25-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-54.9%25-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
 
-**Tech:** Python · HTML · ML · REST · Docker  
-**License:** MIT
+A modular Python trading platform for **MetaTrader 5** workflows, featuring web UI, REST API, backtesting engine, and ML Knowledge Base system.
 
----
+**✨ Key Features:**
+- 📊 Backtesting tools + performance metrics
+- 🌐 REST API + interactive dashboard
+- 🧠 ML pipeline + knowledge transfer
+- 🧪 Comprehensive tests + CI/CD
 
-### 🕷️ **[ProyectZero](https://github.com/blaspinto5/proyectzero)**  
-**Scraping · ETL · PostgreSQL**
+</td>
+<td width="50%">
 
-Production-oriented scraping system for dynamic websites.
+### 🕷️ [ProyectZero](https://github.com/blaspinto5/proyectzero)
+**Scrapy + Playwright + PostgreSQL ETL**
 
-**Highlights**
+<img src="https://img.shields.io/badge/Python-85.1%25-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-13.5%25-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+
+Production-oriented web scraper for dynamic pages with normalization, scoring, and PostgreSQL persistence.
+
+**✨ Key Features:**
 - 🎭 Scrapy + Playwright (headless rendering)
-- 🐳 Docker & docker-compose
+- 🐳 Docker / docker-compose workflow
 - 📦 Alembic migrations
-- ✅ Pytest + GitHub Actions
+- ✅ Pytest suite + GitHub Actions CI
 
-**Tech:** Python · PostgreSQL · Docker · CI
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🎮 Phantom Gaming *(Private)*
+**Independent Projects Hub**
 
-### 🎮 **Phantom Gaming** *(Private)*  
-**Automation & Bot Systems**
+<img src="https://img.shields.io/badge/Python-99.8%25-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Private-red?style=flat-square" />
 
-Private hub for production-grade automation projects.
+Continuous version control for independent projects, including production-ready bots and automation tools.
 
-**Includes**
-- 🤖 Telegram bot funnel for lead qualification
-- 🔄 Automated handoff to human operators
+**✨ Includes:**
+- 🤖 Telegram Bot Funnel for lead qualification
+- 🔄 Automated handoff to human advisors
 - 🛡️ Production-safe architecture
 
+</td>
+<td width="50%">
+
+### 📈 More Coming Soon...
+
+<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" />
+
+Always building, always learning. Stay tuned for more innovative projects combining **Python**, **AI**, and **automation**.
+
+*"The best code is yet to be written."*
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 📈 More Projects Coming
-
-Always building.  
-Always iterating.  
-Always shipping.
-
----
-
-## 💡 What I Bring
+## 💡 What I Bring to the Table
 
 <div align="center">
 
-| | |
-|:--:|:--|
-| 🏗️ | **Production-first mindset** (tests, CI/CD, structure) |
-| 🤖 | **Applied AI/ML** (not demos, real systems) |
-| 🕷️ | **Reliable data pipelines** (scraping → storage → usage) |
-| ⚡ | **Automation that saves time and money** |
+| 🎯 | **Expertise** |
+|:---:|:---|
+| 🏗️ | **Production-minded engineering** — clean structure, tests, CI/CD, documentation |
+| 🤖 | **Practical AI/ML integration** — from model training to product deployment |
+| 🕷️ | **Robust data extraction** — Scrapy, Playwright, complex ETL pipelines |
+| ⚡ | **Automation mastery** — tooling that accelerates delivery and reduces friction |
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=blaspinto5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blaspinto5&theme=tokyonight&hide_border=true" height="165" />
+<a href="https://github.com/blaspinto5">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blaspinto5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaspinto5&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/blaspinto5">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blaspinto5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=blaspinto5&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -129,23 +149,23 @@ Always shipping.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=blaspinto5&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=blaspinto5&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect!
 
 <div align="center">
 
-Open to collaborations, challenging problems, and long-term projects.
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/blaspintoc/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blaspintoc/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-⭐ **Built with intention · Maintained with discipline**
+*⭐ From [blaspinto5](https://github.com/blaspinto5) with 💜*
 
 </div>
